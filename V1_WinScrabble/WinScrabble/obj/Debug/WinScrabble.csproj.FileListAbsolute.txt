@@ -1,0 +1,73 @@
+D:\Annee2020-2021\B1Dev_BasesProgrammation\WinScrabble\WinScrabble\obj\Debug\WinScrabble.csprojAssemblyReference.cache
+D:\Annee2020-2021\B1Dev_BasesProgrammation\WinScrabble\WinScrabble\obj\Debug\WinScrabble.frmScrabble.resources
+D:\Annee2020-2021\B1Dev_BasesProgrammation\WinScrabble\WinScrabble\obj\Debug\WinScrabble.Properties.Resources.resources
+D:\Annee2020-2021\B1Dev_BasesProgrammation\WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.GenerateResource.cache
+D:\Annee2020-2021\B1Dev_BasesProgrammation\WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.CoreCompileInputs.cache
+D:\Annee2020-2021\B1Dev_BasesProgrammation\WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe.config
+D:\Annee2020-2021\B1Dev_BasesProgrammation\WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe
+D:\Annee2020-2021\B1Dev_BasesProgrammation\WinScrabble\WinScrabble\bin\Debug\WinScrabble.pdb
+D:\Annee2020-2021\B1Dev_BasesProgrammation\WinScrabble\WinScrabble\obj\Debug\WinScrabble.exe
+D:\Annee2020-2021\B1Dev_BasesProgrammation\WinScrabble\WinScrabble\obj\Debug\WinScrabble.pdb
+D:\Annee2020-2021\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe.config
+D:\Annee2020-2021\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe
+D:\Annee2020-2021\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.pdb
+D:\Annee2020-2021\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csprojAssemblyReference.cache
+D:\Annee2020-2021\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.frmScrabble.resources
+D:\Annee2020-2021\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.Properties.Resources.resources
+D:\Annee2020-2021\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.GenerateResource.cache
+D:\Annee2020-2021\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.CoreCompileInputs.cache
+D:\Annee2020-2021\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.exe
+D:\Annee2020-2021\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.pdb
+C:\Users\sophi\Desktop\Annee2021-2022\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe.config
+C:\Users\sophi\Desktop\Annee2021-2022\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe
+C:\Users\sophi\Desktop\Annee2021-2022\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.pdb
+C:\Users\sophi\Desktop\Annee2021-2022\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.AssemblyReference.cache
+C:\Users\sophi\Desktop\Annee2021-2022\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.frmScrabble.resources
+C:\Users\sophi\Desktop\Annee2021-2022\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.Properties.Resources.resources
+C:\Users\sophi\Desktop\Annee2021-2022\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.GenerateResource.cache
+C:\Users\sophi\Desktop\Annee2021-2022\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.CoreCompileInputs.cache
+C:\Users\sophi\Desktop\Annee2021-2022\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.exe
+C:\Users\sophi\Desktop\Annee2021-2022\B1Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.pdb
+C:\Users\sophi\Desktop\Annee2023-2024\B1_Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe.config
+C:\Users\sophi\Desktop\Annee2023-2024\B1_Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe
+C:\Users\sophi\Desktop\Annee2023-2024\B1_Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.pdb
+C:\Users\sophi\Desktop\Annee2023-2024\B1_Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.AssemblyReference.cache
+C:\Users\sophi\Desktop\Annee2023-2024\B1_Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.frmScrabble.resources
+C:\Users\sophi\Desktop\Annee2023-2024\B1_Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.Properties.Resources.resources
+C:\Users\sophi\Desktop\Annee2023-2024\B1_Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.GenerateResource.cache
+C:\Users\sophi\Desktop\Annee2023-2024\B1_Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.CoreCompileInputs.cache
+C:\Users\sophi\Desktop\Annee2023-2024\B1_Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.exe
+C:\Users\sophi\Desktop\Annee2023-2024\B1_Dev_BasesProgrammation\TP Scrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.pdb
+Z:\B1_GIRARD\TP\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.AssemblyReference.cache
+Z:\B1_GIRARD\TP\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.frmScrabble.resources
+Z:\B1_GIRARD\TP\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.Properties.Resources.resources
+Z:\B1_GIRARD\TP\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.GenerateResource.cache
+Z:\B1_GIRARD\TP\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.CoreCompileInputs.cache
+Z:\B1_GIRARD\TP\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.exe
+Z:\B1_GIRARD\TP\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.pdb
+Z:\B1_GIRARD\TP\TPWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe.config
+Z:\B1_GIRARD\TP\TPWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe
+Z:\B1_GIRARD\TP\TPWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.pdb
+C:\Users\richard\Desktop\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe.config
+C:\Users\richard\Desktop\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe
+C:\Users\richard\Desktop\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.pdb
+C:\Users\richard\Desktop\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.AssemblyReference.cache
+C:\Users\richard\Desktop\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.frmScrabble.resources
+C:\Users\richard\Desktop\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.Properties.Resources.resources
+C:\Users\richard\Desktop\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.GenerateResource.cache
+C:\Users\richard\Desktop\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.CoreCompileInputs.cache
+C:\Users\richard\Desktop\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.exe
+C:\Users\richard\Desktop\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.pdb
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe.config
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.pdb
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.AssemblyReference.cache
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.frmScrabble.resources
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.Properties.Resources.resources
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.GenerateResource.cache
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.CoreCompileInputs.cache
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.exe
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.pdb
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\System.ValueTuple.dll
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\System.ValueTuple.xml
+C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.CopyComplete
