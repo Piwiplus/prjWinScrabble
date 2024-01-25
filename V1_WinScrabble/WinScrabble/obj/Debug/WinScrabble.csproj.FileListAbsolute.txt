@@ -71,3 +71,19 @@ C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinS
 C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\System.ValueTuple.dll
 C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\System.ValueTuple.xml
 C:\Users\richard\Desktop\TPWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.CopyComplete
+Z:\B2-GIRARD SPE\TP\01TP\prjWinScrabble\prjWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.AssemblyReference.cache
+Z:\B2-GIRARD SPE\TP\01TP\prjWinScrabble\prjWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.exe
+Z:\B2-GIRARD SPE\TP\01TP\prjWinScrabble\prjWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.pdb
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe.config
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.exe
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\WinScrabble.pdb
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\System.ValueTuple.dll
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\bin\Debug\System.ValueTuple.xml
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.AssemblyReference.cache
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.frmScrabble.resources
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.Properties.Resources.resources
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.GenerateResource.cache
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.CoreCompileInputs.cache
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.csproj.CopyComplete
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.exe
+C:\Users\richard\Desktop\prjWinScrabble\V1_WinScrabble\WinScrabble\obj\Debug\WinScrabble.pdb
