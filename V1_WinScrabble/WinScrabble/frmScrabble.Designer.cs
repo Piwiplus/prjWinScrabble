@@ -42,6 +42,7 @@
             this.resClickk = new System.Windows.Forms.Label();
             this.txtBoxMots = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -186,11 +187,16 @@
             // 
             // txtBoxMots
             // 
+            this.txtBoxMots.CausesValidation = false;
             this.txtBoxMots.Location = new System.Drawing.Point(42, 53);
             this.txtBoxMots.Multiline = true;
             this.txtBoxMots.Name = "txtBoxMots";
+            this.txtBoxMots.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.txtBoxMots.ShortcutsEnabled = false;
             this.txtBoxMots.Size = new System.Drawing.Size(160, 231);
             this.txtBoxMots.TabIndex = 13;
+            this.txtBoxMots.TabStop = false;
+            this.txtBoxMots.WordWrap = false;
             // 
             // label6
             // 
@@ -205,6 +211,19 @@
             this.label6.Text = "Vos Mots";
             this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.Color.Transparent;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.Black;
+            this.label7.Location = new System.Drawing.Point(336, 320);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(13, 17);
+            this.label7.TabIndex = 15;
+            this.label7.Text = " ";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
+            // 
             // frmScrabble
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -213,6 +232,7 @@
             this.BackgroundImage = global::WinScrabble.Properties.Resources.FondScrabble;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(656, 350);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.txtBoxMots);
             this.Controls.Add(this.resClickk);
@@ -249,6 +269,7 @@
         private System.Windows.Forms.Label resClickk;
         private System.Windows.Forms.TextBox txtBoxMots;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
     }
 }
 

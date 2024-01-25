@@ -46,6 +46,7 @@ namespace WinScrabble
                 resClickk.Text = "vous avez saisie : " + nbMots + " Mot(s)";
                 if (nbMots == 10)
                 {
+                    label7.Text = "votre meilleur mot est " + meilMot + " !";
                     foreach (string Mot in lesMots)
                     {
                         txtBoxMots.AppendText(Mot +"\n");
@@ -88,6 +89,11 @@ namespace WinScrabble
         }
 
         private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
         {
 
         }
